@@ -21,6 +21,7 @@ ERLROOT=${build}/otp
 OTP_DIR=${HOME}/otp
 PROFILE=${HOME}/.profile.d
 
+echo "-----> Development branch"
 echo "-----> Using Erlang/OTP $ver"
 
 (
